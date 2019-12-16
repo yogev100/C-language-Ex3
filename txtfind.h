@@ -18,4 +18,10 @@ void print_lines(char *str);
 
 void print_similar_words(char *str);
 
+void shift_element(int* arr,int i);
+
+void insertion_sort(int* arr,int len);
+
 #endif
+
+
