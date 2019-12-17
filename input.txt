@@ -1,7 +1,0 @@
-cat a
-
-print the word caats
-this is a text file
-looking for the word cat
-the program should print also cats
-and crast and lcat but 

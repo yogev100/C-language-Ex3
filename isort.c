@@ -25,11 +25,11 @@ int main(){
     for (int i = 0; i < SIZE; i++)//print the array
     {
         if(i==SIZE-1){
-            printf("%d",arr[i]);
+            printf("%d\n",arr[i]);
         }
         else
         {
-            printf("%d,\n",arr[i]);
+            printf("%d,",arr[i]);
         }
     }
     
